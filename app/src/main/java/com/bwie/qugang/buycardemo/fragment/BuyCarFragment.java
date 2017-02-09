@@ -11,8 +11,7 @@ import android.view.ViewGroup;
 import com.bwie.qugang.buycardemo.R;
 
 /**
- * 1.购物的用途：
- * 2.@author
+ * 1.购物 * 2.@author
  * 3.@date
  */
 public class BuyCarFragment extends Fragment {
