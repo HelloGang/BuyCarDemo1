@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 import com.bwie.qugang.buycardemo.R;
 
 /**
- * 1.类的用途：
+ * 1.购物的用途：
  * 2.@author
  * 3.@date
  */
